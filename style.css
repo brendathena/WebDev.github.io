@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #09090A;
+    color: white;
+    height: 100vh;
+}
+
+header {
+    padding: 48px;
+    width: 100%;
+    background-color: #09090A;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+}
